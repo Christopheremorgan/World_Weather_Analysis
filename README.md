@@ -9,12 +9,12 @@ Develop an application to recommend ideal hotels based on clients' weather prefe
 ## Vacation Search
 [Click here](https://github.com/Christopheremorgan/World_Weather_Analysis/tree/main/Vacation_Search) to view the code for weather heatmaps and maps with city info markers using Google Map APIs.
 
-[!image_name](https://github.com/Christopheremorgan/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
+![image_name](https://github.com/Christopheremorgan/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 
 ## Vacation Itinerary
 [Click here](https://github.com/Christopheremorgan/World_Weather_Analysis/tree/main/Vacation_Itinerary) to view the code for directions between 4 select cities with markers including weather and hotel information.
 
-[!image_name](https://github.com/Christopheremorgan/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+![image_name](https://github.com/Christopheremorgan/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
-[!image_name](https://github.com/Christopheremorgan/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![image_name](https://github.com/Christopheremorgan/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
